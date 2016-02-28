@@ -1,0 +1,13 @@
+name: Fallen Kingdoms
+version: 1.1
+description: Fallen Kingdoms, le renouveau par ji_igrec en 1.8 !
+author: ji_igrec
+main: ml.jeanyves.FKPlugin.Plugin
+commands:
+    fk:
+        description: Commande generale pour Fallen Kindoms. /fk help pour en savoir plus
+        usage: Tapez /fk help pour visualiser l'aide.
+        permission: fkplugin.command.fk
+permissions:
+    fkplugin.command.fk:
+        default: true

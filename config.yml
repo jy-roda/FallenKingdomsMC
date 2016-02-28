@@ -1,0 +1,40 @@
+scoreboard: "Fallen Kingdoms"
+world: "world"
+jourDePVP: 3
+blocksUnderBase: 25
+deathLimit: 20
+obj1: "Objectif 1"
+obj2: "Objectif 2"
+obj3: "Objectif 3"
+ignoredBlocks:
+  - AIR
+  - CACTUS
+  - BROWN_MUSHROOM
+  - CAKE_BLOCK
+  - CARROT
+  - COCOA
+  - CROPS
+  - DEAD_BUSH
+  - FIRE
+  - FLOWER_POT
+  - LONG_GRASS
+  - ITEM_FRAME
+  - LEASH
+  - LEAVES
+  - LEAVES_2
+  - MELON_STEM
+  - PAINTING
+  - SAPLING
+  - SEEDS
+  - SIGN
+  - SNOW
+  - WHEAT
+  - YELLOW_FLOWER
+  - RED_ROSE
+wallBlock: "COBBLESTONE"
+outsideBlocks:
+  - TNT
+  - TORCH
+  - GRASS
+  - WALL_SIGN
+  - SIGN_POST
